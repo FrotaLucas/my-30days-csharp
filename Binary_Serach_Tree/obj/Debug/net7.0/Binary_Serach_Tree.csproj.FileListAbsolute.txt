@@ -1,0 +1,14 @@
+C:\Users\lucas\source\repos\ConsoleApp1\Binary_Serach_Tree\bin\Debug\net7.0\Binary_Serach_Tree.exe
+C:\Users\lucas\source\repos\ConsoleApp1\Binary_Serach_Tree\bin\Debug\net7.0\Binary_Serach_Tree.deps.json
+C:\Users\lucas\source\repos\ConsoleApp1\Binary_Serach_Tree\bin\Debug\net7.0\Binary_Serach_Tree.runtimeconfig.json
+C:\Users\lucas\source\repos\ConsoleApp1\Binary_Serach_Tree\bin\Debug\net7.0\Binary_Serach_Tree.dll
+C:\Users\lucas\source\repos\ConsoleApp1\Binary_Serach_Tree\bin\Debug\net7.0\Binary_Serach_Tree.pdb
+C:\Users\lucas\source\repos\ConsoleApp1\Binary_Serach_Tree\obj\Debug\net7.0\Binary_Serach_Tree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\ConsoleApp1\Binary_Serach_Tree\obj\Debug\net7.0\Binary_Serach_Tree.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\ConsoleApp1\Binary_Serach_Tree\obj\Debug\net7.0\Binary_Serach_Tree.AssemblyInfo.cs
+C:\Users\lucas\source\repos\ConsoleApp1\Binary_Serach_Tree\obj\Debug\net7.0\Binary_Serach_Tree.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\ConsoleApp1\Binary_Serach_Tree\obj\Debug\net7.0\Binary_Serach_Tree.dll
+C:\Users\lucas\source\repos\ConsoleApp1\Binary_Serach_Tree\obj\Debug\net7.0\refint\Binary_Serach_Tree.dll
+C:\Users\lucas\source\repos\ConsoleApp1\Binary_Serach_Tree\obj\Debug\net7.0\Binary_Serach_Tree.pdb
+C:\Users\lucas\source\repos\ConsoleApp1\Binary_Serach_Tree\obj\Debug\net7.0\Binary_Serach_Tree.genruntimeconfig.cache
+C:\Users\lucas\source\repos\ConsoleApp1\Binary_Serach_Tree\obj\Debug\net7.0\ref\Binary_Serach_Tree.dll

@@ -1,0 +1,14 @@
+C:\Users\lucas\source\repos\ConsoleApp1\Bitwise_AND\bin\Debug\net7.0\Bitwise_AND.exe
+C:\Users\lucas\source\repos\ConsoleApp1\Bitwise_AND\bin\Debug\net7.0\Bitwise_AND.deps.json
+C:\Users\lucas\source\repos\ConsoleApp1\Bitwise_AND\bin\Debug\net7.0\Bitwise_AND.runtimeconfig.json
+C:\Users\lucas\source\repos\ConsoleApp1\Bitwise_AND\bin\Debug\net7.0\Bitwise_AND.dll
+C:\Users\lucas\source\repos\ConsoleApp1\Bitwise_AND\bin\Debug\net7.0\Bitwise_AND.pdb
+C:\Users\lucas\source\repos\ConsoleApp1\Bitwise_AND\obj\Debug\net7.0\Bitwise_AND.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\ConsoleApp1\Bitwise_AND\obj\Debug\net7.0\Bitwise_AND.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\ConsoleApp1\Bitwise_AND\obj\Debug\net7.0\Bitwise_AND.AssemblyInfo.cs
+C:\Users\lucas\source\repos\ConsoleApp1\Bitwise_AND\obj\Debug\net7.0\Bitwise_AND.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\ConsoleApp1\Bitwise_AND\obj\Debug\net7.0\Bitwise_AND.dll
+C:\Users\lucas\source\repos\ConsoleApp1\Bitwise_AND\obj\Debug\net7.0\refint\Bitwise_AND.dll
+C:\Users\lucas\source\repos\ConsoleApp1\Bitwise_AND\obj\Debug\net7.0\Bitwise_AND.pdb
+C:\Users\lucas\source\repos\ConsoleApp1\Bitwise_AND\obj\Debug\net7.0\Bitwise_AND.genruntimeconfig.cache
+C:\Users\lucas\source\repos\ConsoleApp1\Bitwise_AND\obj\Debug\net7.0\ref\Bitwise_AND.dll

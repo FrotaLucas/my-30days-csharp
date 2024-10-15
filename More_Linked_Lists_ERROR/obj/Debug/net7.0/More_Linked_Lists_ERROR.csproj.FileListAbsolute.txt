@@ -1,0 +1,14 @@
+C:\Users\lucas\source\repos\ConsoleApp1\More_Linked_Lists_ERROR\bin\Debug\net7.0\More_Linked_Lists_ERROR.exe
+C:\Users\lucas\source\repos\ConsoleApp1\More_Linked_Lists_ERROR\bin\Debug\net7.0\More_Linked_Lists_ERROR.deps.json
+C:\Users\lucas\source\repos\ConsoleApp1\More_Linked_Lists_ERROR\bin\Debug\net7.0\More_Linked_Lists_ERROR.runtimeconfig.json
+C:\Users\lucas\source\repos\ConsoleApp1\More_Linked_Lists_ERROR\bin\Debug\net7.0\More_Linked_Lists_ERROR.dll
+C:\Users\lucas\source\repos\ConsoleApp1\More_Linked_Lists_ERROR\bin\Debug\net7.0\More_Linked_Lists_ERROR.pdb
+C:\Users\lucas\source\repos\ConsoleApp1\More_Linked_Lists_ERROR\obj\Debug\net7.0\More_Linked_Lists_ERROR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\ConsoleApp1\More_Linked_Lists_ERROR\obj\Debug\net7.0\More_Linked_Lists_ERROR.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\ConsoleApp1\More_Linked_Lists_ERROR\obj\Debug\net7.0\More_Linked_Lists_ERROR.AssemblyInfo.cs
+C:\Users\lucas\source\repos\ConsoleApp1\More_Linked_Lists_ERROR\obj\Debug\net7.0\More_Linked_Lists_ERROR.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\ConsoleApp1\More_Linked_Lists_ERROR\obj\Debug\net7.0\More_Linked_Lists_ERROR.dll
+C:\Users\lucas\source\repos\ConsoleApp1\More_Linked_Lists_ERROR\obj\Debug\net7.0\refint\More_Linked_Lists_ERROR.dll
+C:\Users\lucas\source\repos\ConsoleApp1\More_Linked_Lists_ERROR\obj\Debug\net7.0\More_Linked_Lists_ERROR.pdb
+C:\Users\lucas\source\repos\ConsoleApp1\More_Linked_Lists_ERROR\obj\Debug\net7.0\More_Linked_Lists_ERROR.genruntimeconfig.cache
+C:\Users\lucas\source\repos\ConsoleApp1\More_Linked_Lists_ERROR\obj\Debug\net7.0\ref\More_Linked_Lists_ERROR.dll

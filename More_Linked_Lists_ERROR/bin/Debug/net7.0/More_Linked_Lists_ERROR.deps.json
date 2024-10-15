@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "More_Linked_Lists_ERROR/1.0.0": {
+        "runtime": {
+          "More_Linked_Lists_ERROR.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "More_Linked_Lists_ERROR/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

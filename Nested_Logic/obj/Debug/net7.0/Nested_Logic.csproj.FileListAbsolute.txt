@@ -1,0 +1,14 @@
+C:\Users\lucas\source\repos\ConsoleApp1\Nested_Logic\bin\Debug\net7.0\Nested_Logic.exe
+C:\Users\lucas\source\repos\ConsoleApp1\Nested_Logic\bin\Debug\net7.0\Nested_Logic.deps.json
+C:\Users\lucas\source\repos\ConsoleApp1\Nested_Logic\bin\Debug\net7.0\Nested_Logic.runtimeconfig.json
+C:\Users\lucas\source\repos\ConsoleApp1\Nested_Logic\bin\Debug\net7.0\Nested_Logic.dll
+C:\Users\lucas\source\repos\ConsoleApp1\Nested_Logic\bin\Debug\net7.0\Nested_Logic.pdb
+C:\Users\lucas\source\repos\ConsoleApp1\Nested_Logic\obj\Debug\net7.0\Nested_Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\ConsoleApp1\Nested_Logic\obj\Debug\net7.0\Nested_Logic.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\ConsoleApp1\Nested_Logic\obj\Debug\net7.0\Nested_Logic.AssemblyInfo.cs
+C:\Users\lucas\source\repos\ConsoleApp1\Nested_Logic\obj\Debug\net7.0\Nested_Logic.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\ConsoleApp1\Nested_Logic\obj\Debug\net7.0\Nested_Logic.dll
+C:\Users\lucas\source\repos\ConsoleApp1\Nested_Logic\obj\Debug\net7.0\refint\Nested_Logic.dll
+C:\Users\lucas\source\repos\ConsoleApp1\Nested_Logic\obj\Debug\net7.0\Nested_Logic.pdb
+C:\Users\lucas\source\repos\ConsoleApp1\Nested_Logic\obj\Debug\net7.0\Nested_Logic.genruntimeconfig.cache
+C:\Users\lucas\source\repos\ConsoleApp1\Nested_Logic\obj\Debug\net7.0\ref\Nested_Logic.dll

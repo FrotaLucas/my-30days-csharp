@@ -1,0 +1,14 @@
+C:\Users\lucas\source\repos\ConsoleApp1\More_Linked_Lists\bin\Debug\net7.0\More_Linked_Lists.exe
+C:\Users\lucas\source\repos\ConsoleApp1\More_Linked_Lists\bin\Debug\net7.0\More_Linked_Lists.deps.json
+C:\Users\lucas\source\repos\ConsoleApp1\More_Linked_Lists\bin\Debug\net7.0\More_Linked_Lists.runtimeconfig.json
+C:\Users\lucas\source\repos\ConsoleApp1\More_Linked_Lists\bin\Debug\net7.0\More_Linked_Lists.dll
+C:\Users\lucas\source\repos\ConsoleApp1\More_Linked_Lists\bin\Debug\net7.0\More_Linked_Lists.pdb
+C:\Users\lucas\source\repos\ConsoleApp1\More_Linked_Lists\obj\Debug\net7.0\More_Linked_Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\ConsoleApp1\More_Linked_Lists\obj\Debug\net7.0\More_Linked_Lists.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\ConsoleApp1\More_Linked_Lists\obj\Debug\net7.0\More_Linked_Lists.AssemblyInfo.cs
+C:\Users\lucas\source\repos\ConsoleApp1\More_Linked_Lists\obj\Debug\net7.0\More_Linked_Lists.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\ConsoleApp1\More_Linked_Lists\obj\Debug\net7.0\More_Linked_Lists.dll
+C:\Users\lucas\source\repos\ConsoleApp1\More_Linked_Lists\obj\Debug\net7.0\refint\More_Linked_Lists.dll
+C:\Users\lucas\source\repos\ConsoleApp1\More_Linked_Lists\obj\Debug\net7.0\More_Linked_Lists.pdb
+C:\Users\lucas\source\repos\ConsoleApp1\More_Linked_Lists\obj\Debug\net7.0\More_Linked_Lists.genruntimeconfig.cache
+C:\Users\lucas\source\repos\ConsoleApp1\More_Linked_Lists\obj\Debug\net7.0\ref\More_Linked_Lists.dll

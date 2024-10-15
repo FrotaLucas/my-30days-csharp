@@ -1,0 +1,14 @@
+C:\Users\lucas\source\repos\ConsoleApp1\Dictionaries_And_Maps\bin\Debug\net7.0\Dictionaries_And_Maps.exe
+C:\Users\lucas\source\repos\ConsoleApp1\Dictionaries_And_Maps\bin\Debug\net7.0\Dictionaries_And_Maps.deps.json
+C:\Users\lucas\source\repos\ConsoleApp1\Dictionaries_And_Maps\bin\Debug\net7.0\Dictionaries_And_Maps.runtimeconfig.json
+C:\Users\lucas\source\repos\ConsoleApp1\Dictionaries_And_Maps\bin\Debug\net7.0\Dictionaries_And_Maps.dll
+C:\Users\lucas\source\repos\ConsoleApp1\Dictionaries_And_Maps\bin\Debug\net7.0\Dictionaries_And_Maps.pdb
+C:\Users\lucas\source\repos\ConsoleApp1\Dictionaries_And_Maps\obj\Debug\net7.0\Dictionaries_And_Maps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\ConsoleApp1\Dictionaries_And_Maps\obj\Debug\net7.0\Dictionaries_And_Maps.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\ConsoleApp1\Dictionaries_And_Maps\obj\Debug\net7.0\Dictionaries_And_Maps.AssemblyInfo.cs
+C:\Users\lucas\source\repos\ConsoleApp1\Dictionaries_And_Maps\obj\Debug\net7.0\Dictionaries_And_Maps.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\ConsoleApp1\Dictionaries_And_Maps\obj\Debug\net7.0\Dictionaries_And_Maps.dll
+C:\Users\lucas\source\repos\ConsoleApp1\Dictionaries_And_Maps\obj\Debug\net7.0\refint\Dictionaries_And_Maps.dll
+C:\Users\lucas\source\repos\ConsoleApp1\Dictionaries_And_Maps\obj\Debug\net7.0\Dictionaries_And_Maps.pdb
+C:\Users\lucas\source\repos\ConsoleApp1\Dictionaries_And_Maps\obj\Debug\net7.0\Dictionaries_And_Maps.genruntimeconfig.cache
+C:\Users\lucas\source\repos\ConsoleApp1\Dictionaries_And_Maps\obj\Debug\net7.0\ref\Dictionaries_And_Maps.dll

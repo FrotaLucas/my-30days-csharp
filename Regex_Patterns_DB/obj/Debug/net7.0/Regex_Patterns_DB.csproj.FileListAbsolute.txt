@@ -1,0 +1,28 @@
+C:\Users\lucas\source\repos\ConsoleApp1\Regex_Patterns_DB\bin\Debug\net7.0\Regex_Patterns_DB.exe
+C:\Users\lucas\source\repos\ConsoleApp1\Regex_Patterns_DB\bin\Debug\net7.0\Regex_Patterns_DB.deps.json
+C:\Users\lucas\source\repos\ConsoleApp1\Regex_Patterns_DB\bin\Debug\net7.0\Regex_Patterns_DB.runtimeconfig.json
+C:\Users\lucas\source\repos\ConsoleApp1\Regex_Patterns_DB\bin\Debug\net7.0\Regex_Patterns_DB.dll
+C:\Users\lucas\source\repos\ConsoleApp1\Regex_Patterns_DB\bin\Debug\net7.0\Regex_Patterns_DB.pdb
+C:\Users\lucas\source\repos\ConsoleApp1\Regex_Patterns_DB\obj\Debug\net7.0\Regex_Patterns_DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\ConsoleApp1\Regex_Patterns_DB\obj\Debug\net7.0\Regex_Patterns_DB.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\ConsoleApp1\Regex_Patterns_DB\obj\Debug\net7.0\Regex_Patterns_DB.AssemblyInfo.cs
+C:\Users\lucas\source\repos\ConsoleApp1\Regex_Patterns_DB\obj\Debug\net7.0\Regex_Patterns_DB.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\ConsoleApp1\Regex_Patterns_DB\obj\Debug\net7.0\Regex_Patterns_DB.dll
+C:\Users\lucas\source\repos\ConsoleApp1\Regex_Patterns_DB\obj\Debug\net7.0\refint\Regex_Patterns_DB.dll
+C:\Users\lucas\source\repos\ConsoleApp1\Regex_Patterns_DB\obj\Debug\net7.0\Regex_Patterns_DB.pdb
+C:\Users\lucas\source\repos\ConsoleApp1\Regex_Patterns_DB\obj\Debug\net7.0\Regex_Patterns_DB.genruntimeconfig.cache
+C:\Users\lucas\source\repos\ConsoleApp1\Regex_Patterns_DB\obj\Debug\net7.0\ref\Regex_Patterns_DB.dll
+C:\Users\lucas\Visual Studio 30days C#\ConsoleApp1\Regex_Patterns_DB\obj\Debug\net7.0\Regex_Patterns_DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Visual Studio 30days C#\ConsoleApp1\Regex_Patterns_DB\obj\Debug\net7.0\Regex_Patterns_DB.AssemblyInfoInputs.cache
+C:\Users\lucas\Visual Studio 30days C#\ConsoleApp1\Regex_Patterns_DB\obj\Debug\net7.0\Regex_Patterns_DB.AssemblyInfo.cs
+C:\Users\lucas\Visual Studio 30days C#\ConsoleApp1\Regex_Patterns_DB\obj\Debug\net7.0\Regex_Patterns_DB.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Visual Studio 30days C#\ConsoleApp1\Regex_Patterns_DB\obj\Debug\net7.0\Regex_Patterns_DB.dll
+C:\Users\lucas\Visual Studio 30days C#\ConsoleApp1\Regex_Patterns_DB\obj\Debug\net7.0\refint\Regex_Patterns_DB.dll
+C:\Users\lucas\Visual Studio 30days C#\ConsoleApp1\Regex_Patterns_DB\obj\Debug\net7.0\Regex_Patterns_DB.pdb
+C:\Users\lucas\Visual Studio 30days C#\ConsoleApp1\Regex_Patterns_DB\bin\Debug\net7.0\Regex_Patterns_DB.exe
+C:\Users\lucas\Visual Studio 30days C#\ConsoleApp1\Regex_Patterns_DB\bin\Debug\net7.0\Regex_Patterns_DB.deps.json
+C:\Users\lucas\Visual Studio 30days C#\ConsoleApp1\Regex_Patterns_DB\bin\Debug\net7.0\Regex_Patterns_DB.runtimeconfig.json
+C:\Users\lucas\Visual Studio 30days C#\ConsoleApp1\Regex_Patterns_DB\bin\Debug\net7.0\Regex_Patterns_DB.dll
+C:\Users\lucas\Visual Studio 30days C#\ConsoleApp1\Regex_Patterns_DB\bin\Debug\net7.0\Regex_Patterns_DB.pdb
+C:\Users\lucas\Visual Studio 30days C#\ConsoleApp1\Regex_Patterns_DB\obj\Debug\net7.0\Regex_Patterns_DB.genruntimeconfig.cache
+C:\Users\lucas\Visual Studio 30days C#\ConsoleApp1\Regex_Patterns_DB\obj\Debug\net7.0\ref\Regex_Patterns_DB.dll

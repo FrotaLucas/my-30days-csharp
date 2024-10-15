@@ -1,0 +1,14 @@
+C:\Users\lucas\source\repos\ConsoleApp1\BST_Level-Order_Transversal\bin\Debug\net7.0\BST_Level-Order_Transversal.exe
+C:\Users\lucas\source\repos\ConsoleApp1\BST_Level-Order_Transversal\bin\Debug\net7.0\BST_Level-Order_Transversal.deps.json
+C:\Users\lucas\source\repos\ConsoleApp1\BST_Level-Order_Transversal\bin\Debug\net7.0\BST_Level-Order_Transversal.runtimeconfig.json
+C:\Users\lucas\source\repos\ConsoleApp1\BST_Level-Order_Transversal\bin\Debug\net7.0\BST_Level-Order_Transversal.dll
+C:\Users\lucas\source\repos\ConsoleApp1\BST_Level-Order_Transversal\bin\Debug\net7.0\BST_Level-Order_Transversal.pdb
+C:\Users\lucas\source\repos\ConsoleApp1\BST_Level-Order_Transversal\obj\Debug\net7.0\BST_Level-Order_Transversal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\ConsoleApp1\BST_Level-Order_Transversal\obj\Debug\net7.0\BST_Level-Order_Transversal.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\ConsoleApp1\BST_Level-Order_Transversal\obj\Debug\net7.0\BST_Level-Order_Transversal.AssemblyInfo.cs
+C:\Users\lucas\source\repos\ConsoleApp1\BST_Level-Order_Transversal\obj\Debug\net7.0\BST_Level-Order_Transversal.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\ConsoleApp1\BST_Level-Order_Transversal\obj\Debug\net7.0\BST_Level-Order_Transversal.dll
+C:\Users\lucas\source\repos\ConsoleApp1\BST_Level-Order_Transversal\obj\Debug\net7.0\refint\BST_Level-Order_Transversal.dll
+C:\Users\lucas\source\repos\ConsoleApp1\BST_Level-Order_Transversal\obj\Debug\net7.0\BST_Level-Order_Transversal.pdb
+C:\Users\lucas\source\repos\ConsoleApp1\BST_Level-Order_Transversal\obj\Debug\net7.0\BST_Level-Order_Transversal.genruntimeconfig.cache
+C:\Users\lucas\source\repos\ConsoleApp1\BST_Level-Order_Transversal\obj\Debug\net7.0\ref\BST_Level-Order_Transversal.dll

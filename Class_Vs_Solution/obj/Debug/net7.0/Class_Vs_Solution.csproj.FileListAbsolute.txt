@@ -1,0 +1,14 @@
+C:\Users\lucas\source\repos\ConsoleApp1\Class_Vs_Solution\bin\Debug\net7.0\Class_Vs_Solution.exe
+C:\Users\lucas\source\repos\ConsoleApp1\Class_Vs_Solution\bin\Debug\net7.0\Class_Vs_Solution.deps.json
+C:\Users\lucas\source\repos\ConsoleApp1\Class_Vs_Solution\bin\Debug\net7.0\Class_Vs_Solution.runtimeconfig.json
+C:\Users\lucas\source\repos\ConsoleApp1\Class_Vs_Solution\bin\Debug\net7.0\Class_Vs_Solution.dll
+C:\Users\lucas\source\repos\ConsoleApp1\Class_Vs_Solution\bin\Debug\net7.0\Class_Vs_Solution.pdb
+C:\Users\lucas\source\repos\ConsoleApp1\Class_Vs_Solution\obj\Debug\net7.0\Class_Vs_Solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\ConsoleApp1\Class_Vs_Solution\obj\Debug\net7.0\Class_Vs_Solution.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\ConsoleApp1\Class_Vs_Solution\obj\Debug\net7.0\Class_Vs_Solution.AssemblyInfo.cs
+C:\Users\lucas\source\repos\ConsoleApp1\Class_Vs_Solution\obj\Debug\net7.0\Class_Vs_Solution.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\ConsoleApp1\Class_Vs_Solution\obj\Debug\net7.0\Class_Vs_Solution.dll
+C:\Users\lucas\source\repos\ConsoleApp1\Class_Vs_Solution\obj\Debug\net7.0\refint\Class_Vs_Solution.dll
+C:\Users\lucas\source\repos\ConsoleApp1\Class_Vs_Solution\obj\Debug\net7.0\Class_Vs_Solution.pdb
+C:\Users\lucas\source\repos\ConsoleApp1\Class_Vs_Solution\obj\Debug\net7.0\Class_Vs_Solution.genruntimeconfig.cache
+C:\Users\lucas\source\repos\ConsoleApp1\Class_Vs_Solution\obj\Debug\net7.0\ref\Class_Vs_Solution.dll

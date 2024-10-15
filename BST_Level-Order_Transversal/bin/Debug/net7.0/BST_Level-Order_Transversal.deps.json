@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "BST_Level-Order_Transversal/1.0.0": {
+        "runtime": {
+          "BST_Level-Order_Transversal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BST_Level-Order_Transversal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
